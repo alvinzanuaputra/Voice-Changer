@@ -54,7 +54,7 @@ VCClient هو برنامج يقوم بتحويل الصوت في الوقت ال
 
 ### البرامج ذات الصلة
 
-* [مغير الصوت في الوقت الحقيقي VCClient](https://github.com/w-okada/voice-changer)
+* [مغير الصوت في الوقت الحقيقي VCClient](https://github.com/alvinzanuaputra/Voice-Changer)
 * [برنامج قراءة النصوص TTSClient](https://github.com/w-okada/ttsclient)
 * [برنامج التعرف على الصوت في الوقت الحقيقي ASRClient](https://github.com/w-okada/asrclient)
 
@@ -65,7 +65,7 @@ VCClient هو برنامج يقوم بتحويل الصوت في الوقت ال
 | نماذج الذكاء الاصطناعي                                                                                                     | v.2       | v.1                  | الترخيص                                                                                 |
 | ------------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ------------------------------------------------------------------------------------------ |
 | [RVC ](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/jp/README.ja.md) | مدعوم | مدعوم            | يرجى الرجوع إلى المستودع.                                                             |
-| [Beatrice v1](https://prj-beatrice.com/)                                                                     | غير متاح       | مدعوم (فقط للويندوز) | [خاص](https://github.com/w-okada/voice-changer/tree/master/server/voice_changer/Beatrice) |
+| [Beatrice v1](https://prj-beatrice.com/)                                                                     | غير متاح       | مدعوم (فقط للويندوز) | [خاص](https://github.com/alvinzanuaputra/Voice-Changer/tree/master/server/voice_changer/Beatrice) |
 | [Beatrice v2](https://prj-beatrice.com/)                                                                     | مدعوم | غير متاح                  | [خاص](https://huggingface.co/wok000/vcclient_model/blob/main/beatrice_v2_beta/readme.md)  |
 | [MMVC](https://github.com/isletennos/MMVC_Trainer)                                                           | غير متاح       | مدعوم            | يرجى الرجوع إلى المستودع.                                                             |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                               | غير متاح       | مدعوم            | يرجى الرجوع إلى المستودع.                                                             |
@@ -146,3 +146,5 @@ VCClient هو برنامج يقوم بتحويل الصوت في الوقت ال
 ## إخلاء المسؤولية
 
 لا نتحمل أي مسؤولية عن أي أضرار مباشرة أو غير مباشرة أو تبعية أو خاصة تنشأ عن استخدام أو عدم القدرة على استخدام هذا البرنامج.
+
+```

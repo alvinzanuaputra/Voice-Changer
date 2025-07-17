@@ -54,7 +54,7 @@ Le versioni per Windows e Mac M1 possono essere scaricate dal repository di hugg
 
 ### Software correlato
 
-* [Cambiavoce in tempo reale VCClient](https://github.com/w-okada/voice-changer)
+* [Cambiavoce in tempo reale VCClient](https://github.com/alvinzanuaputra/Voice-Changer)
 * [Software di sintesi vocale TTSClient](https://github.com/w-okada/ttsclient)
 * [Software di riconoscimento vocale in tempo reale ASRClient](https://github.com/w-okada/asrclient)
 
@@ -65,7 +65,7 @@ Le versioni per Windows e Mac M1 possono essere scaricate dal repository di hugg
 | Modello di IA                                                                                                     | v.2       | v.1                  | Licenza                                                                                 |
 | ------------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ------------------------------------------------------------------------------------------ |
 | [RVC ](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/jp/README.ja.md) | supportato | supportato            | Si prega di consultare il repository.                                                             |
-| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supportato (solo win) | [Proprietario](https://github.com/w-okada/voice-changer/tree/master/server/voice_changer/Beatrice) |
+| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supportato (solo win) | [Proprietario](https://github.com/alvinzanuaputra/Voice-Changer/tree/master/server/voice_changer/Beatrice) |
 | [Beatrice v2](https://prj-beatrice.com/)                                                                     | supportato | n/a                  | [Proprietario](https://huggingface.co/wok000/vcclient_model/blob/main/beatrice_v2_beta/readme.md)  |
 | [MMVC](https://github.com/isletennos/MMVC_Trainer)                                                           | n/a       | supportato            | Si prega di consultare il repository.                                                             |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                               | n/a       | supportato            | Si prega di consultare il repository.                                                             |
@@ -146,3 +146,5 @@ Questo software non è firmato dallo sviluppatore. Anche se viene visualizzato u
 ## Clausola di esclusione della responsabilità
 
 Non ci assumiamo alcuna responsabilità per eventuali danni diretti, indiretti, consequenziali, risultanti o speciali derivanti dall'uso o dall'impossibilità di utilizzare questo software.
+
+```

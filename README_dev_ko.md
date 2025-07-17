@@ -19,7 +19,7 @@ $ conda activate vcclient-dev
 2. 리포지토리를 클론한다
 
 ```
-$ git clone https://github.com/w-okada/voice-changer.git
+$ git clone https://github.com/alvinzanuaputra/Voice-Changer.git
 ```
 
 ## 서버 개발자용

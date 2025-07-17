@@ -54,7 +54,7 @@ Windows 버전, M1 Mac 버전은 hugging face의 리포지토리에서 다운로
 
 ### 관련 소프트웨어
 
-* [실시간 보이스 체인저 VCClient](https://github.com/w-okada/voice-changer)
+* [실시간 보이스 체인저 VCClient](https://github.com/alvinzanuaputra/Voice-Changer)
 * [읽기 소프트웨어 TTSClient](https://github.com/w-okada/ttsclient)
 * [실시간 음성 인식 소프트웨어 ASRClient](https://github.com/w-okada/asrclient)
 
@@ -65,7 +65,7 @@ Windows 버전, M1 Mac 버전은 hugging face의 리포지토리에서 다운로
 | AI 모델                                                                                                     | v.2       | v.1                  | 라이선스                                                                                 |
 | ------------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ------------------------------------------------------------------------------------------ |
 | [RVC ](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/jp/README.ja.md) | supported | supported            | 리포지토리를 참조하세요.                                                             |
-| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supported (only win) | [독자](https://github.com/w-okada/voice-changer/tree/master/server/voice_changer/Beatrice) |
+| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supported (only win) | [독자](https://github.com/alvinzanuaputra/Voice-Changer/tree/master/server/voice_changer/Beatrice) |
 | [Beatrice v2](https://prj-beatrice.com/)                                                                     | supported | n/a                  | [독자](https://huggingface.co/wok000/vcclient_model/blob/main/beatrice_v2_beta/readme.md)  |
 | [MMVC](https://github.com/isletennos/MMVC_Trainer)                                                           | n/a       | supported            | 리포지토리를 참조하세요.                                                             |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                               | n/a       | supported            | 리포지토리를 참조하세요.                                                             |
@@ -146,3 +146,5 @@ Windows, Mac(M1), Linux, Google Colab
 ## 면책 조항
 
 이 소프트웨어의 사용 또는 사용 불가으로 인해 발생한 어떠한 직접 손해, 간접 손해, 파급적 손해, 결과적 손해 또는 특별 손해에 대해서도 일체 책임을 지지 않습니다.
+
+```

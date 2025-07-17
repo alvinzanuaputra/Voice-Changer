@@ -54,7 +54,7 @@ Versi Windows dan M1 Mac boleh dimuat turun dari repositori hugging face.
 
 ### Perisian Berkaitan
 
-* [Penukar Suara Masa Nyata VCClient](https://github.com/w-okada/voice-changer)
+* [Penukar Suara Masa Nyata VCClient](https://github.com/alvinzanuaputra/Voice-Changer)
 * [Perisian Pembacaan TTSClient](https://github.com/w-okada/ttsclient)
 * [Perisian Pengecaman Suara Masa Nyata ASRClient](https://github.com/w-okada/asrclient)
 
@@ -65,7 +65,7 @@ Versi Windows dan M1 Mac boleh dimuat turun dari repositori hugging face.
 | Model AI                                                                                                     | v.2       | v.1                  | Lesen                                                                                 |
 | ------------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ------------------------------------------------------------------------------------------ |
 | [RVC ](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/jp/README.ja.md) | disokong | disokong            | Sila rujuk repositori.                                                             |
-| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | disokong (hanya win) | [Khas](https://github.com/w-okada/voice-changer/tree/master/server/voice_changer/Beatrice) |
+| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | disokong (hanya win) | [Khas](https://github.com/alvinzanuaputra/Voice-Changer/tree/master/server/voice_changer/Beatrice) |
 | [Beatrice v2](https://prj-beatrice.com/)                                                                     | disokong | n/a                  | [Khas](https://huggingface.co/wok000/vcclient_model/blob/main/beatrice_v2_beta/readme.md)  |
 | [MMVC](https://github.com/isletennos/MMVC_Trainer)                                                           | n/a       | disokong            | Sila rujuk repositori.                                                             |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                               | n/a       | disokong            | Sila rujuk repositori.                                                             |
@@ -146,3 +146,5 @@ Perisian ini tidak ditandatangani oleh pembangun. Amaran seperti di bawah akan m
 ## Penafian
 
 Kami tidak bertanggungjawab ke atas sebarang kerosakan langsung, tidak langsung, berbangkit, akibat atau khas yang timbul daripada penggunaan atau ketidakupayaan untuk menggunakan perisian ini.
+
+```

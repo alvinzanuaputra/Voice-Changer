@@ -21,7 +21,7 @@ $ conda activate vcclient-dev
 2. Клонируйте репозиторий:
 
 ```
-$ git clone https://github.com/w-okada/voice-changer.git
+$ git clone https://github.com/alvinzanuaputra/Voice-Changer.git
 ```
 
 ## Для серверных разработчиков

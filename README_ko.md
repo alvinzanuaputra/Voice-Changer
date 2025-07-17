@@ -10,11 +10,11 @@
   - [훈련 코드 리포지토리](https://huggingface.co/fierce-cats/beatrice-trainer)
   - [Colab 버전](https://github.com/w-okada/beatrice-trainer-colab)
 - v.2.0.70-beta (only for m1 mac)
-  - [여기를 참조하십시오](https://github.com/w-okada/voice-changer/tree/v.2)
+  - [여기를 참조하십시오](https://github.com/alvinzanuaputra/Voice-Changer/tree/v.2)
   - new feature:
     - M1 Mac 버전 VCClient에서도 Beatrice v2 beta.1을 지원합니다.
 - v.2.0.69-beta (only for win)
-  - [여기를 참조하십시오](https://github.com/w-okada/voice-changer/tree/v.2)
+  - [여기를 참조하십시오](https://github.com/alvinzanuaputra/Voice-Changer/tree/v.2)
   - 버그 수정:
     - 일부 예외 발생 시 시작 버튼이 표시되지 않는 버그를 수정
     - 서버 디바이스 모드의 출력 버퍼 조정
@@ -23,7 +23,7 @@
   - 기타:
     - 서버 디바이스 모드에 호스트 API 필터 추가 (강조 표시)
 - v.2.0.65-beta
-  - [여기를 참조하십시오](https://github.com/w-okada/voice-changer/tree/v.2)
+  - [여기를 참조하십시오](https://github.com/alvinzanuaputra/Voice-Changer/tree/v.2)
   - new feature: Beatrice v2 beta.1를 지원하여 더 높은 품질의 음성 변환이 가능해졌습니다
 
 # VC Client란
@@ -35,7 +35,7 @@
   - [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) (only v1)
   - [RVC(Retrieval-based-Voice-Conversion)](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI)
   - [DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) (only v1)
-  - [Beatrice JVS Corpus Edition](https://prj-beatrice.com/) * experimental,  (***NOT MIT License*** see [readme](https://github.com/w-okada/voice-changer/blob/master/server/voice_changer/Beatrice/)) *  Only for Windows, CPU dependent (only v1)
+  - [Beatrice JVS Corpus Edition](https://prj-beatrice.com/) * experimental,  (***NOT MIT License*** see [readme](https://github.com/alvinzanuaputra/Voice-Changer/blob/master/server/voice_changer/Beatrice/)) *  Only for Windows, CPU dependent (only v1)
   - [Beatrice v2](https://prj-beatrice.com/) (only for v2)
   - 
 1. 이 소프트웨어는 네트워크를 통한 사용도 가능하며, 게임 등 부하가 큰 애플리케이션과 동시에 사용할 경우 음성 변화 처리의 부하를 외부로 돌릴 수도 있습니다.
@@ -46,7 +46,7 @@
 
 - Windows, Mac(M1), Linux, Google Colab (MMVC만 지원)
 ## 관련 소프트웨어
-- [실시간 음성 변조기 VCClient](https://github.com/w-okada/voice-changer)
+- [실시간 음성 변조기 VCClient](https://github.com/alvinzanuaputra/Voice-Changer)
 - [텍스트 읽기 소프트웨어 TTSClient](https://github.com/w-okada/ttsclient)
 - [실시간 음성 인식 소프트웨어 ASRClient](https://github.com/w-okada/asrclient)
 # 사용 방법
@@ -62,9 +62,9 @@
 
 - 실행 형식 바이너리를 다운로드하여 실행할 수 있습니다.
 
-- 튜토리얼은 [이곳](tutorials/tutorial_rvc_ko_latest.md)을 확인하세요。([네트워크 문제 해결법](https://github.com/w-okada/voice-changer/blob/master/tutorials/trouble_shoot_communication_ko.md))
+- 튜토리얼은 [이곳](tutorials/tutorial_rvc_ko_latest.md)을 확인하세요。([네트워크 문제 해결법](https://github.com/alvinzanuaputra/Voice-Changer/blob/master/tutorials/trouble_shoot_communication_ko.md))
 
-- [Google Colaboratory](https://github.com/w-okada/voice-changer/tree/v.2/w_okada's_Voice_Changer_version_2_x.ipynb) で簡単にお試しいただけるようになりました。左上の Open in Colab のボタンから起動できます。
+- [Google Colaboratory](https://github.com/alvinzanuaputra/Voice-Changer/tree/v.2/w_okada's_Voice_Changer_version_2_x.ipynb) で簡単にお試しいただけるようになりました。左上の Open in Colab のボタンから起動できます。
 
 <img src="https://github.com/w-okada/voice-changer/assets/48346627/3f092e2d-6834-42f6-bbfd-7d389111604e" width="400" height="150">
 
@@ -182,4 +182,4 @@ Github Pages에서 실행할 수 있어서 브라우저만 있으면 다양한 �
 
 # For Contributor
 
-이 리포지토리는 [CLA](https://raw.githubusercontent.com/w-okada/voice-changer/master/LICENSE-CLA)를 설정했습니다.
+이 리포지토리는 [CLA](https://raw.githubusercontent.com/alvinzanuaputra/Voice-Changer/master/LICENSE-CLA)를 설정했습니다.

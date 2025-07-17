@@ -54,7 +54,7 @@
 
 ### Σχετικό λογισμικό
 
-* [Μετατροπέας φωνής σε πραγματικό χρόνο VCClient](https://github.com/w-okada/voice-changer)
+* [Μετατροπέας φωνής σε πραγματικό χρόνο VCClient](https://github.com/alvinzanuaputra/Voice-Changer)
 * [Λογισμικό ανάγνωσης TTSClient](https://github.com/w-okada/ttsclient)
 * [Λογισμικό αναγνώρισης φωνής σε πραγματικό χρόνο ASRClient](https://github.com/w-okada/asrclient)
 
@@ -65,7 +65,7 @@
 | Μοντέλα AI                                                                                                     | v.2       | v.1                  | Άδεια                                                                                 |
 | ------------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ------------------------------------------------------------------------------------------ |
 | [RVC ](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/jp/README.ja.md) | υποστηρίζεται | υποστηρίζεται            | Παρακαλώ ανατρέξτε στο αποθετήριο.                                                             |
-| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | υποστηρίζεται (μόνο win) | [ιδιόκτητο](https://github.com/w-okada/voice-changer/tree/master/server/voice_changer/Beatrice) |
+| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | υποστηρίζεται (μόνο win) | [ιδιόκτητο](https://github.com/alvinzanuaputra/Voice-Changer/tree/master/server/voice_changer/Beatrice) |
 | [Beatrice v2](https://prj-beatrice.com/)                                                                     | υποστηρίζεται | n/a                  | [ιδιόκτητο](https://huggingface.co/wok000/vcclient_model/blob/main/beatrice_v2_beta/readme.md)  |
 | [MMVC](https://github.com/isletennos/MMVC_Trainer)                                                           | n/a       | υποστηρίζεται            | Παρακαλώ ανατρέξτε στο αποθετήριο.                                                             |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                               | n/a       | υποστηρίζεται            | Παρακαλώ ανατρέξτε στο αποθετήριο.                                                             |
@@ -146,3 +146,5 @@ Windows, Mac(M1), Linux, Google Colab
 ## Αποποίηση ευθυνών
 
 Δεν φέρουμε καμία ευθύνη για οποιαδήποτε άμεση, έμμεση, επακόλουθη, ή ειδική ζημία που προκύπτει από τη χρήση ή την αδυναμία χρήσης αυτού του λογισμικού.
+
+```

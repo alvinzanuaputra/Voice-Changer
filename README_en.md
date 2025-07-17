@@ -10,11 +10,11 @@
   - [Training Code Repository](https://huggingface.co/fierce-cats/beatrice-trainer)
   - [Colab Version](https://github.com/w-okada/beatrice-trainer-colab)
 - v.2.0.70-beta (only for m1 mac)
-  - [HERE](https://github.com/w-okada/voice-changer/tree/v.2)
+  - [HERE](https://github.com/alvinzanuaputra/Voice-Changer/tree/v.2)
   - new feature:
     - The M1 Mac version of VCClient now supports Beatrice v2 beta.1.
 - v.2.0.69-beta (only for win)
-  - [HERE](https://github.com/w-okada/voice-changer/tree/v.2)
+  - [HERE](https://github.com/alvinzanuaputra/Voice-Changer/tree/v.2)
   - bugfix:
     - Fixed a bug where the start button would not be displayed in case of some exceptions
     - Adjusted the output buffer for server device mode
@@ -23,7 +23,7 @@
   - misc:
     - Added host API filter (highlighted) for server device mode
 - v.2.0.65-beta
-  - [HERE](https://github.com/w-okada/voice-changer/tree/v.2)
+  - [HERE](https://github.com/alvinzanuaputra/Voice-Changer/tree/v.2)
   - new feature: We have supported Beatrice v2 beta.1, enabling even higher quality voice conversion.
 
 # What is VC Client
@@ -34,7 +34,7 @@
 - [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) (only v1)
 - [RVC(Retrieval-based-Voice-Conversion)](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI)
 - [DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) (only v1)
-- [Beatrice JVS Corpus Edition](https://prj-beatrice.com/) * experimental,  (***NOT MIT License*** see [readme](https://github.com/w-okada/voice-changer/blob/master/server/voice_changer/Beatrice/)) *  Only for Windows, CPU dependent (only v1)
+- [Beatrice JVS Corpus Edition](https://prj-beatrice.com/) * experimental,  (***NOT MIT License*** see [readme](https://github.com/alvinzanuaputra/Voice-Changer/blob/master/server/voice_changer/Beatrice/)) *  Only for Windows, CPU dependent (only v1)
   - [Beatrice v2](https://prj-beatrice.com/) (only for v2)
 
 1. Distribute the load by running Voice Changer on a different PC
@@ -45,7 +45,7 @@
 3. Cross-platform compatibility
    Supports Windows, Mac (including Apple Silicon M1), Linux, and Google Colaboratory.
 ## Related Software
-- [Real-time Voice Changer VCClient](https://github.com/w-okada/voice-changer)
+- [Real-time Voice Changer VCClient](https://github.com/alvinzanuaputra/Voice-Changer)
 - [Text-to-Speech Software TTSClient](https://github.com/w-okada/ttsclient)
 - [Real-Time Speech Recognition Software ASRClient](https://github.com/w-okada/asrclient)
 # usage
@@ -61,9 +61,9 @@ It can be used in two main ways, in order of difficulty:
 
 - You can download and run executable binaries.
 
-- Please see [here](tutorials/tutorial_rvc_en_latest.md) for the tutorial. ([trouble shoot](https://github.com/w-okada/voice-changer/blob/master/tutorials/trouble_shoot_communication_ja.md))
+- Please see [here](tutorials/tutorial_rvc_en_latest.md) for the tutorial. ([trouble shoot](https://github.com/alvinzanuaputra/Voice-Changer/blob/master/tutorials/trouble_shoot_communication_ja.md))
 
-- It's now easy to try it out on [Google Colaboratory](https://github.com/w-okada/voice-changer/tree/v.2/w_okada's_Voice_Changer_version_2_x.ipynb) (requires a ngrok account). You can launch it from the 'Open in Colab' button in the top left corner.
+- It's now easy to try it out on [Google Colaboratory](https://github.com/alvinzanuaputra/Voice-Changer/tree/v.2/w_okada's_Voice_Changer_version_2_x.ipynb) (requires a ngrok account). You can launch it from the 'Open in Colab' button in the top left corner.
 
 <img src="https://github.com/w-okada/voice-changer/assets/48346627/3f092e2d-6834-42f6-bbfd-7d389111604e" width="400" height="150">
 

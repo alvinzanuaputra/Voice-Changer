@@ -54,7 +54,7 @@ Windows版、 M1 Mac版はhugging faceのリポジトリからダウンロード
 
 ### 関連ソフトウェア
 
-* [リアルタイムボイスチェンジャ VCClient](https://github.com/w-okada/voice-changer)
+* [リアルタイムボイスチェンジャ VCClient](https://github.com/alvinzanuaputra/Voice-Changer)
 * [読み上げソフトウェア TTSClient](https://github.com/w-okada/ttsclient)
 * [リアルタイム音声認識ソフトウェア ASRClient](https://github.com/w-okada/asrclient)
 
@@ -65,7 +65,7 @@ Windows版、 M1 Mac版はhugging faceのリポジトリからダウンロード
 | AIモデル                                                                                                     | v.2       | v.1                  | ライセンス                                                                                 |
 | ------------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ------------------------------------------------------------------------------------------ |
 | [RVC ](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/jp/README.ja.md) | supported | supported            | リポジトリを参照してください。                                                             |
-| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supported (only win) | [独自](https://github.com/w-okada/voice-changer/tree/master/server/voice_changer/Beatrice) |
+| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supported (only win) | [独自](https://github.com/alvinzanuaputra/Voice-Changer/tree/master/server/voice_changer/Beatrice) |
 | [Beatrice v2](https://prj-beatrice.com/)                                                                     | supported | n/a                  | [独自](https://huggingface.co/wok000/vcclient_model/blob/main/beatrice_v2_beta/readme.md)  |
 | [MMVC](https://github.com/isletennos/MMVC_Trainer)                                                           | n/a       | supported            | リポジトリを参照してください。                                                             |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                               | n/a       | supported            | リポジトリを参照してください。                                                             |
@@ -146,3 +146,5 @@ Windows, Mac(M1), Linux, Google Colab
 ## 免責事項
 
 本ソフトウェアの使用または使用不能により生じたいかなる直接損害・間接損害・波及的損害・結果的損害 または特別損害についても、一切責任を負いません。
+
+```

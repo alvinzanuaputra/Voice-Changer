@@ -50,13 +50,13 @@ Windows版、 M1 Mac版はhugging faceのリポジトリからダウンロード
 ### 関連リンク
 
 * [Beatrice V2 トレーニングコードのリポジトリ](https://huggingface.co/fierce-cats/beatrice-trainer)
-* [Beatrice V2 トレーニングコード Colab版](https://github.com/w-okada/beatrice-trainer-colab)
+* [Beatrice V2 トレーニングコード Colab版](https://github.com/alvinzanuaputra/beatrice-trainer-colab)
 
 ### 関連ソフトウェア
 
-* [リアルタイムボイスチェンジャ VCClient](https://github.com/w-okada/voice-changer)
-* [読み上げソフトウェア TTSClient](https://github.com/w-okada/ttsclient)
-* [リアルタイム音声認識ソフトウェア ASRClient](https://github.com/w-okada/asrclient)
+* [リアルタイムボイスチェンジャ VCClient](https://github.com/alvinzanuaputra/voice-changer)
+* [読み上げソフトウェア TTSClient](https://github.com/alvinzanuaputra/ttsclient)
+* [リアルタイム音声認識ソフトウェア ASRClient](https://github.com/alvinzanuaputra/asrclient)
 
 ## VC Clientの特徴
 
@@ -65,7 +65,7 @@ Windows版、 M1 Mac版はhugging faceのリポジトリからダウンロード
 | AIモデル                                                                                                     | v.2       | v.1                  | ライセンス                                                                                 |
 | ------------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ------------------------------------------------------------------------------------------ |
 | [RVC ](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/jp/README.ja.md) | supported | supported            | リポジトリを参照してください。                                                             |
-| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supported (only win) | [独自](https://github.com/w-okada/voice-changer/tree/master/server/voice_changer/Beatrice) |
+| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supported (only win) | [独自](https://github.com/alvinzanuaputra/voice-changer/tree/master/server/voice_changer/Beatrice) |
 | [Beatrice v2](https://prj-beatrice.com/)                                                                     | supported | n/a                  | [独自](https://huggingface.co/wok000/vcclient_model/blob/main/beatrice_v2_beta/readme.md)  |
 | [MMVC](https://github.com/isletennos/MMVC_Trainer)                                                           | n/a       | supported            | リポジトリを参照してください。                                                             |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                               | n/a       | supported            | リポジトリを参照してください。                                                             |

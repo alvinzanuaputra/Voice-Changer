@@ -54,7 +54,7 @@ Windows版、M1 Mac版可以从hugging face的仓库下载。
 
 ### 相关软件
 
-* [实时变声器 VCClient](https://github.com/w-okada/voice-changer)
+* [实时变声器 VCClient](https://github.com/alvinzanuaputra/Voice-Changer)
 * [语音合成软件 TTSClient](https://github.com/w-okada/ttsclient)
 * [实时语音识别软件 ASRClient](https://github.com/w-okada/asrclient)
 
@@ -65,7 +65,7 @@ Windows版、M1 Mac版可以从hugging face的仓库下载。
 | AI模型                                                                                                     | v.2       | v.1                  | 许可证                                                                                 |
 | ------------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ------------------------------------------------------------------------------------------ |
 | [RVC ](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/jp/README.ja.md) | supported | supported            | 请参阅仓库。                                                             |
-| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supported (only win) | [独立](https://github.com/w-okada/voice-changer/tree/master/server/voice_changer/Beatrice) |
+| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supported (only win) | [独立](https://github.com/alvinzanuaputra/Voice-Changer/tree/master/server/voice_changer/Beatrice) |
 | [Beatrice v2](https://prj-beatrice.com/)                                                                     | supported | n/a                  | [独立](https://huggingface.co/wok000/vcclient_model/blob/main/beatrice_v2_beta/readme.md)  |
 | [MMVC](https://github.com/isletennos/MMVC_Trainer)                                                           | n/a       | supported            | 请参阅仓库。                                                             |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                               | n/a       | supported            | 请参阅仓库。                                                             |
@@ -146,3 +146,5 @@ Windows, Mac(M1), Linux, Google Colab
 ## 免责声明
 
 对于因使用或无法使用本软件而导致的任何直接、间接、衍生、结果性或特殊损害，本软件概不负责。
+
+```

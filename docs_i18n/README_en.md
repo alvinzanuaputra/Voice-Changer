@@ -54,7 +54,7 @@ Windows and M1 Mac versions can be downloaded from the hugging face repository.
 
 ### Related Software
 
-* [Real-time Voice Changer VCClient](https://github.com/w-okada/voice-changer)
+* [Real-time Voice Changer VCClient](https://github.com/alvinzanuaputra/Voice-Changer)
 * [Text-to-Speech Software TTSClient](https://github.com/w-okada/ttsclient)
 * [Real-time Speech Recognition Software ASRClient](https://github.com/w-okada/asrclient)
 
@@ -65,7 +65,7 @@ Windows and M1 Mac versions can be downloaded from the hugging face repository.
 | AI Model                                                                                                     | v.2       | v.1                  | License                                                                                 |
 | ------------------------------------------------------------------------------------------------------------ | --------- | -------------------- | ------------------------------------------------------------------------------------------ |
 | [RVC ](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/jp/README.ja.md) | supported | supported            | Please refer to the repository.                                                             |
-| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supported (only win) | [Proprietary](https://github.com/w-okada/voice-changer/tree/master/server/voice_changer/Beatrice) |
+| [Beatrice v1](https://prj-beatrice.com/)                                                                     | n/a       | supported (only win) | [Proprietary](https://github.com/alvinzanuaputra/Voice-Changer/tree/master/server/voice_changer/Beatrice) |
 | [Beatrice v2](https://prj-beatrice.com/)                                                                     | supported | n/a                  | [Proprietary](https://huggingface.co/wok000/vcclient_model/blob/main/beatrice_v2_beta/readme.md)  |
 | [MMVC](https://github.com/isletennos/MMVC_Trainer)                                                           | n/a       | supported            | Please refer to the repository.                                                             |
 | [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)                                               | n/a       | supported            | Please refer to the repository.                                                             |
